@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MVP Example</string>
+    <string name="instruction">Enter a word that does not include \'e\'</string>
+    <string name="submit">Submit</string>
 </resources>
